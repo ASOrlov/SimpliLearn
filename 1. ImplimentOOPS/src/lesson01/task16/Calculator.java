@@ -110,7 +110,7 @@ public class Calculator {
 
             // ++ explicit type casting
             Boolean firstNumberIsLong=((long)firstNumber-firstNumber==0);
-            Boolean secondNumberIsLong=((long)firstNumber-firstNumber==0);
+            Boolean secondNumberIsLong=((long)secondNumber-secondNumber==0);
             Boolean resultNumberIsLong=((long)result-result==0);
 
             if (firstNumberIsLong)
@@ -132,7 +132,7 @@ public class Calculator {
 
             //--explicit type casting
 
-            System.out.println(outputFirstNumber+operation+outputSecondNumber+"="+outputResult+"\n");
+            System.out.println("\n"+outputFirstNumber+operation+outputSecondNumber+"="+outputResult+"\n");
 
         }
     }
