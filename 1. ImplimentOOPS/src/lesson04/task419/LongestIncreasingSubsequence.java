@@ -1,6 +1,4 @@
 package lesson04.task419;
-
-
 import java.util.*;
 
 public class LongestIncreasingSubsequence {
@@ -13,8 +11,6 @@ public class LongestIncreasingSubsequence {
 
         System.out.println("Source sequence \n"+source);
         System.out.println("Longest increasing subsequence \n"+result);
-        System.out.println(result);
-
     }
 
     private List<Integer> getLongestIncreasingSubsequence(List<Integer> source) {
@@ -45,6 +41,5 @@ public class LongestIncreasingSubsequence {
         List<Integer> mockList = Arrays.asList(1,2,3,2,5,6,7,3,4,10,11,12,13,14,15,9,10);
         return mockList;
     }
-
 
 }
