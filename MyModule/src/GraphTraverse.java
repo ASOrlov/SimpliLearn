@@ -160,10 +160,10 @@ public class GraphTraverse {
         graph.addEdge(3,5);
         graph.addEdge(5,6);
 
-        System.out.println("Deep traverse");
+        System.out.println("Depth traverse");
         graph.traverseGraphDepth();
 
-        System.out.println("Wide traverse");
+        System.out.println("Breadth traverse");
         graph.traverseGraphBreadth();
     }
 

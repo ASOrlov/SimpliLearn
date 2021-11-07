@@ -1,4 +1,4 @@
-package lesson05.task53;
+package lesson05.task053;
 import java.util.Scanner;
 
 public class LinearSearch {
