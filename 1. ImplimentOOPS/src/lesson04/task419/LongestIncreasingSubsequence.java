@@ -1,4 +1,6 @@
 package lesson04.task419;
+
+
 import java.util.*;
 
 public class LongestIncreasingSubsequence {
