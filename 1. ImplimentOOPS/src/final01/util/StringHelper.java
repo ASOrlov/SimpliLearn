@@ -18,6 +18,8 @@ public class StringHelper {
                 result=bufferedReader.readLine();
                 return result;
             } catch (IOException e) {
+                System.out.println();
+                System.out.println();
                 System.out.println("Error with reading string.");
             }
         }
