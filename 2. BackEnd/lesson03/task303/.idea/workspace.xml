@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="task303:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8148b734-4671-4de6-94c0-43177fcea6e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo2/src/main/java/ClearCloseMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo2/src/main/java/FirstLevelCacheMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo2/src/main/java/MergeTestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo2/src/main/java/RemoveTestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo2/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo2/src/main/java/domain/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo2/src/main/java/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo2/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/src/main/java/edu/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/src/main/java/edu/manytomany/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/src/main/java/edu/manytomany/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/src/main/java/edu/manytoone/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/src/main/java/edu/manytoone/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/src/main/java/edu/onetomany/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/src/main/java/edu/onetomany/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/src/main/java/edu/onetoone/embeddable/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/src/main/java/edu/onetoone/embeddable/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/src/main/java/edu/onetoone/joincolumn/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/src/main/java/edu/onetoone/joincolumn/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/src/main/java/edu/onetoone/joincolumn/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/src/main/java/edu/onetoone/sharedpk/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/src/main/java/edu/onetoone/sharedpk/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo3/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/Demo4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/src/main/java/edu/joinedtables/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/src/main/java/edu/joinedtables/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/src/main/java/edu/joinedtables/Checking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/src/main/java/edu/joinedtables/Savings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/src/main/java/edu/singletable/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/src/main/java/edu/singletable/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/src/main/java/edu/singletable/Checking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/src/main/java/edu/singletable/Savings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/src/main/java/edu/tableperconcreteclass/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/src/main/java/edu/tableperconcreteclass/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/src/main/java/edu/tableperconcreteclass/Checking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/src/main/java/edu/tableperconcreteclass/Savings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo4/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo5/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo5/src/main/java/edu/compositeids/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo5/src/main/java/edu/compositeids/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo5/src/main/java/edu/compositeids/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo5/src/main/java/edu/compositeids/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo5/src/main/java/edu/secondarytable/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo5/src/main/java/edu/secondarytable/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo5/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo6/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo6/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo6/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo6/src/main/java/edu/queries/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo6/src/main/java/edu/queries/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo6/src/main/java/edu/queries/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo6/src/main/java/edu/queries/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo6/src/main/java/edu/queries/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo6/src/main/java/edu/queries/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo6/src/main/java/edu/queries/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo6/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo6/src/main/resources/test.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo7/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo7/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo7/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo7/src/main/java/edu/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo7/src/main/java/edu/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo7/src/main/java/edu/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo7/src/main/java/edu/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo7/src/main/java/edu/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo7/src/main/java/edu/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo7/src/main/java/edu/SalesRep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/Demo7/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/FirstProject/FirstProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/FirstProject/src/main/java/edu/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/FirstProject/src/main/java/edu/alex/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Miss Xing/Hibernate/FirstProject/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF001/HF001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/task108/task108.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/task110/task110.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/task112/task112.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/task114/task114.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/task116/task116.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/task118/task118.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/task120/task120.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/task122/task122.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/task123/src/main/webapp/myJSP.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/task123/task123.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/task303_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/task303_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_30_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecommerce/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecommerce/InitHibernate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task303.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/artifacts/task304_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/artifacts/task304_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jta_1_1_spec_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__org_jboss_jandex_1_2_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/src/main/java/com/ecommerce/EProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/src/main/java/com/ecommerce/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/src/main/java/com/ecommerce/ListProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/src/main/resources/hiber/EProduct.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task304/task304.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/artifacts/task305_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/artifacts/task305_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__org_hibernate_hibernate_core_5_6_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__org_jboss_jandex_2_2_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/src/main/java/com/ecommerce/EProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/src/main/java/com/ecommerce/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/src/main/java/com/ecommerce/ListProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/task305.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson01/task123/src/main/java/com/task123/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson01/task123/src/main/java/com/task123/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson01/task123/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson01/task123/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson01/task123/src/main/webapp/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson01/task123/src/main/webapp/error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson01/task123/target/task123-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson01/task123/target/task123-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="24Dfrnxwjc7hFLk0n25blVlzma3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15672676" />
+    <property name="project.structure.side.proportion" value="0.28739694" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SimpliLearn\2. BackEnd\lesson03\task303\src" />
+      <recent name="D:\SimpliLearn\2. BackEnd\lesson03\task303\src\rrr" />
+      <recent name="D:\SimpliLearn\2. BackEnd\lesson03\task303\src\main\java" />
+      <recent name="D:\SimpliLearn\2. BackEnd\lesson03\task303\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.50" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.50" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/task303_war_exploded/" />
+      <deployment>
+        <artifact name="task303:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/task303_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="09809275-dd41-4481-91fd-98df55c5863c" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51569" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="task303:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8148b734-4671-4de6-94c0-43177fcea6e6" name="Default Changelist" comment="" />
+      <created>1643170279520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643170279520</updated>
+      <workItem from="1643170280984" duration="5106000" />
+      <workItem from="1643181751584" duration="3686000" />
+      <workItem from="1643191624164" duration="753000" />
+      <workItem from="1643193827190" duration="633000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ecommerce/InitHibernate.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ecommerce/InitHibernate.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

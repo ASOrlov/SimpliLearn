@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d16daa62-5bde-4075-b713-d775ef5accb7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Demo2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2/src/main/java/ClearCloseMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2/src/main/java/FirstLevelCacheMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2/src/main/java/MergeTestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2/src/main/java/RemoveTestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2/src/main/java/domain/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2/src/main/java/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo2/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/src/main/java/edu/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/src/main/java/edu/manytomany/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/src/main/java/edu/manytomany/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/src/main/java/edu/manytoone/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/src/main/java/edu/manytoone/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/src/main/java/edu/onetomany/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/src/main/java/edu/onetomany/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/src/main/java/edu/onetoone/embeddable/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/src/main/java/edu/onetoone/embeddable/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/src/main/java/edu/onetoone/joincolumn/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/src/main/java/edu/onetoone/joincolumn/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/src/main/java/edu/onetoone/joincolumn/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/src/main/java/edu/onetoone/sharedpk/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/src/main/java/edu/onetoone/sharedpk/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo3/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/Demo4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/src/main/java/edu/joinedtables/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/src/main/java/edu/joinedtables/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/src/main/java/edu/joinedtables/Checking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/src/main/java/edu/joinedtables/Savings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/src/main/java/edu/singletable/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/src/main/java/edu/singletable/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/src/main/java/edu/singletable/Checking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/src/main/java/edu/singletable/Savings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/src/main/java/edu/tableperconcreteclass/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/src/main/java/edu/tableperconcreteclass/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/src/main/java/edu/tableperconcreteclass/Checking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/src/main/java/edu/tableperconcreteclass/Savings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo5/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo5/src/main/java/edu/compositeids/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo5/src/main/java/edu/compositeids/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo5/src/main/java/edu/compositeids/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo5/src/main/java/edu/compositeids/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo5/src/main/java/edu/secondarytable/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo5/src/main/java/edu/secondarytable/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo5/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/queries/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/queries/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/queries/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/queries/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/queries/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/queries/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/queries/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/test.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo7/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo7/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo7/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo7/src/main/java/edu/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo7/src/main/java/edu/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo7/src/main/java/edu/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo7/src/main/java/edu/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo7/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject/FirstProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject/src/main/java/edu/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject/src/main/java/edu/alex/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson01/HF001/HF001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson01/task108/task108.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson01/task110/task110.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson01/task112/task112.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson01/task114/task114.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson01/task116/task116.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson01/task118/task118.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson01/task120/task120.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson01/task122/task122.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson01/task123/src/main/webapp/myJSP.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lesson01/task123/task123.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lesson01/task123/src/main/java/com/task123/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lesson01/task123/src/main/java/com/task123/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lesson01/task123/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lesson01/task123/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lesson01/task123/src/main/webapp/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lesson01/task123/src/main/webapp/error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lesson01/task123/target/task123-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lesson01/task123/target/task123-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="23OnOCSFJvyz849sX3yIOxwqbUs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.queries.App" />
+      <module name="Demo6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.queries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d16daa62-5bde-4075-b713-d775ef5accb7" name="Default Changelist" comment="" />
+      <created>1641613969019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641613969019</updated>
+      <workItem from="1641613970444" duration="4342000" />
+      <workItem from="1641623642265" duration="2890000" />
+      <workItem from="1641710639094" duration="2093000" />
+      <workItem from="1642401840712" duration="643000" />
+      <workItem from="1642418199234" duration="3188000" />
+      <workItem from="1642493639933" duration="2934000" />
+      <workItem from="1642663251400" duration="177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

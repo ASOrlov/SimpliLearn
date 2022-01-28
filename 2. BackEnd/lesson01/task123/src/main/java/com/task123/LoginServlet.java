@@ -18,6 +18,7 @@ public class LoginServlet extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
+
         PrintWriter out= response.getWriter();
         String username=request.getParameter("username");
         String password=request.getParameter("password");
@@ -25,8 +26,8 @@ public class LoginServlet extends HttpServlet {
         if (username.equalsIgnoreCase("alexander")
         && password.equals("Orlov"))
         {
-            String userName = request.getParameter("username");
             HttpSession session=request.getSession();
+            String userName = request.getParameter("username");
             session.setAttribute("username",  userName);
             RequestDispatcher requestDispatcher=request.getRequestDispatcher("dashboard.html");
             requestDispatcher.forward(request,response);
