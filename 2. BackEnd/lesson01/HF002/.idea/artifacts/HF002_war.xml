@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HF002:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>HF002</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="HF002-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="HF002:war exploded" />
+    </root>
+  </artifact>
+</component>

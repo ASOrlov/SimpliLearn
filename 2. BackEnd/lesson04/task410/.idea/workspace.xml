@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="task410:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a30c8493-95fe-4f4f-9496-16880bba30d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../1. ImplimentOOPS/src/1. ImplimentOOPS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1. ImplimentOOPS/src/final01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1. ImplimentOOPS/src/final01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1. ImplimentOOPS/src/final01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1. ImplimentOOPS/src/final01/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1. ImplimentOOPS/src/final01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1. ImplimentOOPS/src/final01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1. ImplimentOOPS/src/final01/final01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/.idea/artifacts/HF002_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/.idea/artifacts/HF002_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/HF002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/src/main/java/com/example/HF002/TestInitParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF002/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/.idea/artifacts/HF003_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/.idea/artifacts/HF003_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/HF003.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/src/main/java/com/example/HF003/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/src/main/java/com/example/HF003/ListenerTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/src/main/java/com/example/HF003/MyServletContextListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF003/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/.idea/artifacts/HF004_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/.idea/artifacts/HF004_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/HF004.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/src/main/java/com/example/HF004/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson01/HF004/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/.idea/artifacts/task403_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/.idea/artifacts/task403_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/src/main/java/com/example/task403/SimpleJSP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task403/task403.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/artifacts/task406_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/artifacts/task406_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/libraries/Maven__javax_servlet_jsp_jstl_jstl_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/src/main/java/com/example/task406/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/src/main/jsp_implicit_objects.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/src/main/webapp/handle-error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/src/main/webapp/response-redirect.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task406/task406.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/.idea/artifacts/task408_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/.idea/artifacts/task408_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/.idea/libraries/Maven__javax_servlet_jsp_jstl_jstl_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/src/main/java/com/example/task408/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/src/main/webapp/included.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task408/task408.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/task410_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/task410_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/task410/ProductBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/forward.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/forwarded.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/showbean.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task410.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/.idea/artifacts/task413_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/.idea/artifacts/task413_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/src/main/java/com/example/task413/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/src/main/webapp/dashboard.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/src/main/webapp/logout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task413/task413.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/.idea/artifacts/task414_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/.idea/artifacts/task414_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/src/main/java/com/example/task414/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/src/main/webapp/showbean.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task414/task414.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="jsf" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="278m1j7lHdSKd8vIqbsPyz0elTS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.50" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.50" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/task410_war_exploded/" />
+      <deployment>
+        <artifact name="task410:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/task410_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="ef6d4be4-a843-45eb-9534-4066fe0e7ddb" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64605" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="task410:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a30c8493-95fe-4f4f-9496-16880bba30d7" name="Default Changelist" comment="" />
+      <created>1648709874365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648709874365</updated>
+      <workItem from="1648709876238" duration="6233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
