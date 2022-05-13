@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CustomDataBindingFormatterXML:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>CustomDataBindingFormatterXML</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="customdatabindingformatterxml.war">
+      <element id="artifact" artifact-name="CustomDataBindingFormatterXML:war exploded" />
+    </root>
+  </artifact>
+</component>

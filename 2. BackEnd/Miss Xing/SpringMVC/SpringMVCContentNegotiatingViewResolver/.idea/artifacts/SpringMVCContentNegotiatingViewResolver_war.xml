@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringMVCContentNegotiatingViewResolver:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SpringMVCContentNegotiatingViewResolver</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="product_springmvc.war">
+      <element id="artifact" artifact-name="SpringMVCContentNegotiatingViewResolver:war exploded" />
+    </root>
+  </artifact>
+</component>
