@@ -1,0 +1,4 @@
+com\example\model\Customer.class
+com\example\formatter\PhoneFormatter.class
+com\example\model\Phone.class
+com\example\controller\CustomerController.class

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SpringValidationXML:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9643a648-72a2-40ee-9c11-8a40d12e0168" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/ThymeleafLayoutHierarcicalStyle/src/main/java/alex/thymeleaflayouthierarcicalstyle/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/ThymeleafLayoutHierarcicalStyle/src/main/resources/static/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/ThymeleafLayoutHierarcicalStyle/src/main/resources/static/cover.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/ThymeleafLayoutHierarcicalStyle/src/main/resources/templates/admin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/ThymeleafLayoutHierarcicalStyle/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/ThymeleafLayoutHierarcicalStyle/src/main/resources/templates/page_layout/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/ThymeleafLayoutHierarcicalStyle/src/main/resources/templates/page_layout/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/ThymeleafLayoutHierarcicalStyle/src/main/resources/templates/page_layout/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/ThymeleafLayoutHierarcicalStyle/src/main/resources/templates/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/ThymeleafLayoutIncludeStyle/src/main/java/alex/thymeleaflayoutincludestyle/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/ThymeleafLayoutIncludeStyle/src/main/resources/static/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/ThymeleafLayoutIncludeStyle/src/main/resources/static/cover.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/ThymeleafLayoutIncludeStyle/src/main/resources/templates/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/ThymeleafLayoutIncludeStyle/src/main/resources/templates/commoncomponents.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/ThymeleafLayoutIncludeStyle/src/main/resources/templates/fragments/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/ThymeleafLayoutIncludeStyle/src/main/resources/templates/fragments/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/ThymeleafLayoutIncludeStyle/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/ThymeleafLayoutIncludeStyle/src/main/resources/templates/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/employeemanagement/src/main/java/alex/controller/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/employeemanagement/src/main/java/alex/domain/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/employeemanagement/src/main/java/alex/domain/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/employeemanagement/src/main/resources/templates/empDetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/employeemanagement/src/main/resources/templates/empForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/springbootjspdemo/src/main/java/alex/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/springbootjspdemo/src/main/resources/templates/greeting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/springbootjspdemo/src/main/webapp/WEB-INF/jsp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/thymeleafxpressionsyntax/src/main/java/alex/thymeleafxpressionsyntax/controller/ConditionalController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/thymeleafxpressionsyntax/src/main/java/alex/thymeleafxpressionsyntax/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/thymeleafxpressionsyntax/src/main/java/alex/thymeleafxpressionsyntax/controller/IterationalController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/thymeleafxpressionsyntax/src/main/java/alex/thymeleafxpressionsyntax/controller/SimpleExpressionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/thymeleafxpressionsyntax/src/main/java/alex/thymeleafxpressionsyntax/domain/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/thymeleafxpressionsyntax/src/main/java/alex/thymeleafxpressionsyntax/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/thymeleafxpressionsyntax/src/main/resources/mes.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/thymeleafxpressionsyntax/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/thymeleafxpressionsyntax/src/main/resources/templates/conditionalExpression.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/thymeleafxpressionsyntax/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/thymeleafxpressionsyntax/src/main/resources/templates/iterationalExpression.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringBoot/thymeleafxpressionsyntax/src/main/resources/templates/simpleExpression.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3. DevOps/lesson01/task108/.idea/artifacts/task108_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson01/task108/.idea/artifacts/task108_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3. DevOps/lesson01/task108/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson01/task108/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3. DevOps/lesson01/task108/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson01/task108/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3. DevOps/lesson01/task108/task108.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson01/task108/task108.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3. DevOps/lesson01/task110/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson01/task110/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3. DevOps/lesson01/task110/src/main/java/alex/springmvc/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson01/task110/src/main/java/alex/springmvc/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3. DevOps/lesson01/task110/src/main/webapp/WEB-INF/spring-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson01/task110/src/main/webapp/WEB-INF/spring-config.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="28TO0wlLum8iFmPsdwlYxMvh8UB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SimpliLearn\2. BackEnd\Miss Xing\SpringMVC\SpringValidationJavaConfig\src\main\webapp\WEB-INF" />
+      <recent name="D:\SimpliLearn\2. BackEnd\Miss Xing\SpringMVC\SpringValidationXML\src\main\java\alex\domain" />
+      <recent name="D:\SimpliLearn\2. BackEnd\Miss Xing\SpringMVC\SpringValidationXML\src\main\webapp\WEB-INF\config" />
+      <recent name="D:\SimpliLearn\2. BackEnd\Miss Xing\SpringMVC\SpringValidationXML\src\main\webapp\WEB-INF\jsp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="alex.controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.50" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.50" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/SpringValidationXML_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SpringValidationXML:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/SpringValidationXML_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="3bc35159-1629-44be-81c0-ef6256c747d3" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59184" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SpringValidationXML:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9643a648-72a2-40ee-9c11-8a40d12e0168" name="Default Changelist" comment="" />
+      <created>1651236890413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651236890413</updated>
+      <workItem from="1651236891833" duration="1386000" />
+      <workItem from="1651241854822" duration="7196000" />
+      <workItem from="1651655199778" duration="4805000" />
+      <workItem from="1651668120574" duration="1043000" />
+      <workItem from="1651669196763" duration="1118000" />
+      <workItem from="1651674571324" duration="116000" />
+      <workItem from="1651841800481" duration="2787000" />
+      <workItem from="1654092584871" duration="1260000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

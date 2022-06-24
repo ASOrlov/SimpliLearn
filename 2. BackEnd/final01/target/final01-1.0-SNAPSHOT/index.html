@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>FlyAway</title>
+</head>
+<body>
+<a href="login.html">Click here for login to admin tools pannel</a>
+<h1 align=center>Flight ticket booking application</h1>
+<center>
+    <form method=post action="getflightinformation">
+        <h2>To get information about available tickets specify all fields and click  "Search tickets" </h2>
+        <table width="50%" border="0">
+            <tr valign="top">
+                <td width="40%">Departure</td>
+                <td><input type="text" name="departure" id="departure" maxlength=50></td>
+            </tr>
+
+            <tr valign="top">
+                <td width="40%">Destination</td>
+                <td><input type="text" name="destination" id="destination" maxlength=50></td>
+            </tr>
+
+            <tr valign="top">
+                <td width="40%">Date of flight</td>
+                <td><input type="date" name="dateofflight" id="dateofflight" maxlength=50></td>
+            </tr>
+
+            <tr valign="top">
+                <td width="40%">Number of person</td>
+                <td><input type="number" name="number" id="number" maxlength=50></td>
+            </tr>
+
+            <tr valign="top">
+                <td colspan=2 width="100%">
+                    <button>Search tickets</button>
+                </td>
+            </tr>
+
+        </table>
+    </form>
+</center>
+</body>
+</html>
