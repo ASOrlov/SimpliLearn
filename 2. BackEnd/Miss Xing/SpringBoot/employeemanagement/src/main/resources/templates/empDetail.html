@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Employee detail</title>
+</head>
+<body>
+<p>ID:<span th:text="${savedEmployee.id}" </p>
+<p>First name:<span th:text="${savedEmployee.firstName}" </p>
+<p>Last name:<span th:text="${savedEmployee.lastName}" </p>
+<p>Street:<span th:text="${savedEmployee.address.street}" </p>
+<p>State:<span th:text="${savedEmployee.address.state}" </p>
+<p>ZipCode:<span th:text="${savedEmployee.address.zipCode}" </p>
+</body>
+</html>
