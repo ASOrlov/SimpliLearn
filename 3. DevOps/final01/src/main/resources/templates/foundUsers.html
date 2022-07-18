@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Sporty shoes</title>
+</head>
+<body>
+
+<h2> Found users:</h2>
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Login</th>
+        <th>Role</th>
+    </tr>
+
+    <tr th:if="${#lists.isEmpty(foundUsers)}">
+        <td colspan="7">No Records found. Add some...!</td>
+    </tr>
+
+    <tr th:each="user : ${foundUsers}">
+        <td th:text="${user.id}"></td>
+        <td th:text="${user.login}"></td>
+        <td th:text="${user.permissionLevel.name}"></td>
+    </tr>
+
+</table>
+</body>
+</html>

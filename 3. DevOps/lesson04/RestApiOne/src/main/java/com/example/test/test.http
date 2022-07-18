@@ -1,0 +1,19 @@
+GET http://localhost:8081/webapione/person/1
+Accept: application/json
+
+<> 2022-06-29T162415.200.json
+<> 2022-06-29T162046.200.json
+<> 2022-06-29T162013.404.json
+
+###
+POST http://localhost:8081//webapione//person
+Content-Type: application/json
+
+{
+
+  "name": "Alex",
+  "age": "25"
+
+}
+
+###

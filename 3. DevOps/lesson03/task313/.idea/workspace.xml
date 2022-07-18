@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5858269-10f9-4bb6-91d4-386a1ba87e89" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/src/main/java/com/ecommerce/tests/Greetings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/src/main/java/com/ecommerce/tests/StandardTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task305/src/test/java/com/ecommerce/tests/GreetingsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task307/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task307/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task307/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task307/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task307/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task307/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task307/src/main/java/com/ecommerce/tests/Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task309/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task309/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task309/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task309/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task309/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task309/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task309/src/main/java/com/ecommerce/tests/ConditionalTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task311/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task311/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task311/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task311/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task311/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task311/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task311/src/main/java/com/ecommerce/tests/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task311/src/main/java/com/ecommerce/tests/NestedCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task311/src/main/java/com/ecommerce/tests/RepeatedTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecommerce/tests/DynamicTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task315/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task315/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task315/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task315/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task315/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task315/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task315/src/main/java/com/ecommerce/tests/DependencyInjection.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2BCwgp24ojvl033hDUEL26kLg3S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="task313" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ecommerce.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ecommerce.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.ecommerce.tests.DynamicTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DynamicTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5858269-10f9-4bb6-91d4-386a1ba87e89" name="Default Changelist" comment="" />
+      <created>1656423489492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656423489492</updated>
+      <workItem from="1656423491016" duration="1700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

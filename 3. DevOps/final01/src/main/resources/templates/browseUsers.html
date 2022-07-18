@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Sporty shoes</title>
+</head>
+<body>
+
+<a href="/">Home</a><br>
+
+<div align="left">
+    <h2> Search users by part of name</h2>
+    <form method="post" th:action="@{/manageUsers/search}" th:object="${formSearchUser}">
+        <input th:field="*{name}">
+        <button type="submit">Search</button>
+
+    </form>
+</div>
+
+
+<h2> List of users</h2>
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Login</th>
+        <th>Role</th>
+    </tr>
+
+    <tr th:if="${#lists.isEmpty(userList)}">
+        <td colspan="7">No Records found. Add some...!</td>
+    </tr>
+
+    <tr th:each="user : ${userList}">
+        <td th:text="${user.id}"></td>
+        <td th:text="${user.login}"></td>
+        <td th:text="${user.permissionLevel.name}"></td>
+    </tr>
+
+</table>
+</body>
+</html>

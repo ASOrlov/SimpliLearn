@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Sporty shoes</title>
+</head>
+<body>
+
+<a href="/">Home</a><br>
+
+<div align="left">
+    <h2> Adding product</h2>
+    <form method="post" th:action="@{/manageProducts/addProduct}" th:object="${productFormData}">
+        <table width="50%" border="0">
+            <tr valign="top">
+                <td width="40%">Name of product</td>
+                <td><input th:field="*{name}"></td>
+                <td th:if="${#fields.hasErrors('name')}"
+                   th:text="${#strings.listJoin(#fields.errors('name'), ', ')}"></td>
+
+            </tr>
+            <tr valign="top">
+                <td width="40%">Category of product</td>
+                <td>
+                    <select th:field="*{category}">
+                        <option value="">Nothing selected</option>
+                        <option th:each="category :${categoryList}"
+                                th:value="${category.id}"
+                                th:text="${category.name}">
+                    </select>
+                </td>
+                <td th:if="${#fields.hasErrors('category')}"
+                    th:text="${#strings.listJoin(#fields.errors('category'), ', ')}"></td>
+            </tr>
+            <tr valign="top">
+                <td colspan=2 width="100%">
+                    <button type="submit">Add product</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
+
+
+<h2> List of product</h2>
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Category</th>
+        <th>Actions</th>
+    </tr>
+
+    <tr th:if="${#lists.isEmpty(productList)}">
+        <td colspan="7">No Records found. Add some...!</td>
+    </tr>
+
+    <tr th:each="product : ${productList}">
+        <td th:text="${product.id}"></td>
+        <td th:text="${product.name}"></td>
+        <td th:text="${product.category.name}"></td>
+        <td><a th:href="'/manageProducts/actions' + ${product.id}">✏</a></td>
+    </tr>
+</table>
+
+
+
+</body>
+</html>

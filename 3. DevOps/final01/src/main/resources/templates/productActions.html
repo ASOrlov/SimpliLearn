@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>Sporty shoes</title>
+</head>
+<body>
+
+<div align="left">
+  <h2> Product actions</h2>
+  <form method="post" th:action= "@{/manageProducts/update}" th:object="${productFormData}">
+    <input type="hidden" th:field="*{id}">
+    <table width="50%" border="0">
+      <tr valign="top">
+        <td width="40%">Name of product</td>
+        <td><input th:field="*{name}"></td>
+      </tr>
+      <tr valign="top">
+        <td width="40%">Category of product</td>
+        <td>
+          <select th:field="*{category}">
+            <option th:each="category :${categoryList}"
+                    th:value="${category.id}"
+                    th:text="${category.name}">
+          </select>
+        </td>
+      </tr>
+      <tr valign="top">
+        <td colspan=2 width="100%">
+          <button type="submit">Update product</button>
+          <button type="submit" th:formaction="'/manageProducts/delete'+${productFormData.id}">Delete product</button>
+        </td>
+      </tr>
+    </table>
+  </form>
+</div>
+
+</body>
+</html>

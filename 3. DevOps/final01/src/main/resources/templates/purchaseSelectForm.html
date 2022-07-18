@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>Sporty shoes</title>
+</head>
+<body>
+
+<a href="/">Home</a><br>
+
+<div align="left">
+  <h2> Specify purchase report parameters</h2>
+  <form method="post" th:action="@{/managePurchases/show}" th:object="${formFilterPurchase}">
+    <table width="50%" border="0">
+      <tr valign="top">
+        <td width="40%">Purchases from date</td>
+        <td><input type=datetime-local th:field="*{from}"></td>
+      </tr>
+
+      <tr valign="top">
+        <td width="40%">Purchases to date</td>
+        <td><input type=datetime-local th:field="*{to}"></td>
+      </tr>
+      <tr valign="top">
+        <td width="40%">Category of product</td>
+        <td>
+          <select th:field="*{category}">
+            <option value="">Nothing selected</option>
+            <option th:each="category :${categoryList}"
+                    th:value="${category.id}"
+                    th:text="${category.name}">
+          </select>
+        </td>
+      </tr>
+      <tr valign="top">
+        <td colspan=2 width="100%">
+          <button type="submit">Make report</button>
+        </td>
+      </tr>
+    </table>
+  </form>
+</div>

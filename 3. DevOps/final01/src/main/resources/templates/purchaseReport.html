@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Sporty shoes</title>
+</head>
+<body>
+
+
+<h2> Purchase report</h2>
+
+<th:block th:if="${formFilterPurchase.from != null || formFilterPurchase.to != null }">
+    <p>
+        Purchase
+        <th:block th:if="${formFilterPurchase.from != null}">
+            from <span th:text="${#temporals.format(formFilterPurchase.from, 'dd-MM-yyyy HH:mm')}" > </span>
+        </th:block>
+
+        <th:block th:if="${formFilterPurchase.to != null}">
+            to <span th:text="${#temporals.format(formFilterPurchase.to, 'dd-MM-yyyy HH:mm')}"> </span>
+        </th:block>
+    </p>
+</th:block>
+
+
+<th:block th:if="${formFilterPurchase.category != null}">
+    <p> Category:  <span th:text="${formFilterPurchase.category.name}"> </span> </p>
+</th:block>
+
+
+<table>
+    <tr>
+        <th>ID</th>
+        <th>User</th>
+        <th>Product</th>
+        <th>Category</th>
+        <th>Date of purchase</th>
+        <th>Price</th>
+        <th>Amount</th>
+        <th>Sum</th>
+    </tr>
+
+    <tr th:if="${#lists.isEmpty(purchaseList)}">
+        <td colspan="7">No Records found. Add some...!</td>
+    </tr>
+
+    <tr th:each="purchase : ${purchaseList}">
+        <td th:text="${purchase.id}"></td>
+        <td th:text="${purchase.user.login}"></td>
+        <td th:text="${purchase.product.name}"></td>
+        <td th:text="${purchase.product.category.name}"></td>
+        <td th:text="${#temporals.format(purchase.date, 'dd-MM-yyyy HH:mm')}"></td>
+        <td th:text="${purchase.price}"></td>
+        <td th:text="${purchase.amount}"></td>
+        <td th:text="${purchase.summa}"></td>
+
+    </tr>
+</table>
+
+
+</body>
+</html>

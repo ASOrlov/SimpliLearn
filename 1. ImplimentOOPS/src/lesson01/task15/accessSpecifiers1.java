@@ -8,7 +8,6 @@ public class accessSpecifiers1 {
         System.out.println("Dafault Access Specifier");
         defAccessSpecifier obj = new defAccessSpecifier();
         obj.display();
-
     }
 
 }
