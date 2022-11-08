@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="511f07f9-90c9-4ee5-950f-981350e2807d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/controller/PurchaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/creationparameters/ProductCreationParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/entity/CategoryEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/entity/ProductEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/entity/PurchaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/entity/RoleEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/entity/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/entity/form/FormFilterPurchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/entity/form/FormSearchUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/formdata/ProductFormData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/repository/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/repository/PurchaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/service/PurchaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/java/com/example/sportyshoes/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/resources/templates/adminTools.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/resources/templates/browseUsers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/resources/templates/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/resources/templates/foundUsers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/resources/templates/manageProducts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/resources/templates/productActions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/resources/templates/purchaseReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/resources/templates/purchaseSelectForm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/final01/src/main/resources/templates/userDashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/SpringSecTest/src/main/java/com/example/springsectest/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/SpringSecTest/src/main/java/com/example/springsectest/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/SpringSecTest/src/main/java/com/example/springsectest/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/SpringSecTest/src/main/java/com/example/springsectest/entity/MyUserDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/SpringSecTest/src/main/java/com/example/springsectest/entity/RoleEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/SpringSecTest/src/main/java/com/example/springsectest/entity/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/SpringSecTest/src/main/java/com/example/springsectest/entity/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/SpringSecTest/src/main/java/com/example/springsectest/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/SpringSecTest/src/main/java/com/example/springsectest/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/SpringSecTest/src/main/java/com/example/springsectest/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task305/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task305/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task305/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task305/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task305/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task305/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task305/src/main/java/com/ecommerce/tests/Greetings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task305/src/main/java/com/ecommerce/tests/StandardTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task305/src/test/java/com/ecommerce/tests/GreetingsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task307/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task307/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task307/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task307/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task307/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task307/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task307/src/main/java/com/ecommerce/tests/Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task309/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task309/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task309/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task309/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task309/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task309/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task309/src/main/java/com/ecommerce/tests/ConditionalTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task311/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task311/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task311/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task311/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task311/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task311/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task311/src/main/java/com/ecommerce/tests/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task311/src/main/java/com/ecommerce/tests/NestedCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task311/src/main/java/com/ecommerce/tests/RepeatedTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task313/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task313/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task313/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task313/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task313/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task313/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task313/src/main/java/com/ecommerce/tests/DynamicTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task315/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task315/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task315/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task315/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task315/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task315/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task315/src/main/java/com/ecommerce/tests/DependencyInjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task316/src/main/java/com/boots/application/config/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task316/src/main/java/com/boots/application/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task316/src/main/java/com/boots/application/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task316/src/main/java/com/boots/application/controller/RegistrationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task316/src/main/java/com/boots/application/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task316/src/main/java/com/boots/application/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task316/src/main/java/com/boots/application/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task316/src/main/java/com/boots/application/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task316/src/main/java/com/boots/application/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task316/src/main/resources/static/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task316/src/main/webapp/WEB-INF/jsp/admin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task316/src/main/webapp/WEB-INF/jsp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task316/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task316/src/main/webapp/WEB-INF/jsp/news.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson03/task316/src/main/webapp/WEB-INF/jsp/registration.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson04/RestApiOne/src/main/java/com/example/test/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson04/RestApiOne/src/main/java/com/example/test/PersonEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson04/RestApiOne/src/main/java/com/example/test/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson04/RestApiOne/src/main/java/com/example/test/PersonResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson04/RestApiOne/src/main/java/com/example/test/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson04/RestApiOne/src/main/java/com/example/test/test.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson04/RestApiTest/src/main/java/com/test/example/test.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson04/RestApiTwo/src/main/java/com/example/test/HobbyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson04/RestApiTwo/src/main/java/com/example/test/HobbyEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson04/RestApiTwo/src/main/java/com/example/test/HobbyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson04/RestApiTwo/src/main/java/com/example/test/HobbyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson04/RestApiTwo/src/main/java/com/example/test/test.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3. DevOps/lesson01/task110/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3. DevOps/lesson01/task110/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2BtHBdeY2D4Q9Oz6dZazzyliMH1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="511f07f9-90c9-4ee5-950f-981350e2807d" name="Default Changelist" comment="" />
+      <created>1657718326727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657718326727</updated>
+      <workItem from="1657718328172" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
