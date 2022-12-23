@@ -1,0 +1,20 @@
+<br>
+<div class="container">
+    
+    <h2 class="container">Table of results:</h2>
+
+    <div [ngClass]="{bar:true,
+        success:answer?.isCorrect,
+        error:!answer?.isCorrect}" 
+        *ngFor="let answer of result;  let i = index">
+        {{i+1}}. {{answer?.questionText}}  {{answer?.answerText}} 
+    </div>
+
+    <br>
+
+    <h2 class="container">Your result score is {{resultScore}}</h2>
+
+</div>
+
+
+ 

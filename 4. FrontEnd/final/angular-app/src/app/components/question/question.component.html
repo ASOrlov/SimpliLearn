@@ -1,0 +1,22 @@
+<br>
+<section >
+    <form #f="ngForm" (ngSubmit)="onSubmit()" class="container">
+      <label id="example-radio-group-label">
+        <h2>{{currentQuestion.textOfQuestion}}</h2>
+      </label>
+      
+      <mat-radio-group aria-labelledby="example-radio-group-label"
+        class="example-radio-group" [(ngModel)]="selectedAnswerOption" name="selectedAnswerOption">
+        <mat-radio-button class="example-radio-button" 
+          *ngFor="let answerOption of currentQuestion.answerOptions" [value]="answerOption">
+
+                {{ answerOption.textOfAnswer }}
+  
+        </mat-radio-button>
+      </mat-radio-group>
+
+      <button [disabled]="!selectedAnswerOption" type="submit" class="btn btn-primary">Next</button>
+
+    </form>
+
+</section>
