@@ -48,10 +48,7 @@ export class ComplaintComponent implements OnInit{
 
   selectedStatusId:number|undefined;
   selectedTypeOfProblemId:number|undefined;
-
-
-
-
+  
 
   ngOnInit(): void {
    
