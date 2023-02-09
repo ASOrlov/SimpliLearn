@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns:sec="https://www.thymeleaf.org/thymeleaf-extras-springsecurity5">
+<head>
+    <meta charset="UTF-8">
+    <title>Sporty shoes</title>
+</head>
+<body>
+
+<div sec:authorize="isAuthenticated()">
+    Welcome <b><span sec:authentication="name">Username</span></b>
+    &nbsp;
+    <i><span sec:authentication="principal.authorities">Roles</span></i>
+</div>
+
+<form th:action="@{/logout}" method="post">
+    <input type="submit" value="Logout" />
+</form>
+
+<br>
+
+<div sec:authorize="hasAnyAuthority('Administrator')">
+    <a href="/manageProducts/main">Manage the products in the store</a> <br>
+    <a href="/manageUsers/main">Browse the list of users who have signed up</a><br>
+    <a href="/managePurchases/makeReport">See purchase reports</a><br>
+    <a href="/manageUsers/changePassword">Change password</a><br>
+</div>
+
+
+<div sec:authorize="hasAnyAuthority('Administrator', 'User')">
+    <a href="/userDashboard">User dashboard</a><br>
+</div>
+
+</body>
+</html>

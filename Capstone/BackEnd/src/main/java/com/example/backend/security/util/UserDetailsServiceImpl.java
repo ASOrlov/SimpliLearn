@@ -1,7 +1,7 @@
-package com.example.sportyshoes.security.util;
+package com.example.backend.security.util;
 
-import com.example.sportyshoes.entity.UserEntity;
-import com.example.sportyshoes.repository.UserRepository;
+import com.example.backend.entity.UserEntity;
+import com.example.backend.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
