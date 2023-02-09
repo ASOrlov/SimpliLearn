@@ -1,0 +1,96 @@
+<div class="container">
+
+    <br>
+
+    <h1>
+      {{isNew? "New user":"User management"}}
+    </h1>
+    
+
+    <br>
+
+
+    <form #myForm="ngForm">
+       
+        <mat-form-field appearance="fill">
+            <mat-label>User name</mat-label>
+            <input required="true" minlength="10" matInput [(ngModel)]="user.name" name="name" #name="ngModel" >
+            <mat-error *ngIf="!name?.valid && (name?.dirty || name?.touched)">Must be at least 10 symbols</mat-error>
+        </mat-form-field>
+
+        <br>
+        <br>
+        
+       
+        <div class="col-1">
+
+            <mat-form-field appearance="fill">
+                <mat-label>Login</mat-label>
+                <input required="true" minlength="4" matInput [(ngModel)]="user.login" name="login" #login="ngModel">
+                <mat-error *ngIf="!login?.valid && (login?.dirty || login?.touched)">Must be at least 4 symbols</mat-error>
+            </mat-form-field>
+        
+            <mat-form-field appearance="fill">
+                <mat-label>Password</mat-label>
+                <input required={{isNew}}  minlength="4" type="password" matInput [(ngModel)]="user.password" name="password" #password="ngModel">
+                <mat-error *ngIf="!password?.valid && (password?.dirty || password?.touched)">Must be at least 4 symbols</mat-error>
+            </mat-form-field>
+          
+            <br>
+            <br>
+
+            <button (click)="onSaveChanges()"  [disabled]="!myForm.valid||loading" mat-raised-button color="primary" class="button">
+                <span *ngIf="loading" class="spinner-border spinner-border-sm me-1"></span>
+                {{isNew? "Save user":"Save changes"}}
+            </button>
+
+        </div>
+        
+
+       
+    
+        <div class="col-2">
+
+            
+            <mat-form-field appearance="fill">
+                <mat-label>Role</mat-label>
+                <mat-select placeholder="Select role" required="true" [(ngModel)]="selectedRoleId" name="role">
+                    <mat-option *ngFor="let role of roles" [value]="role.id">
+                        {{role.name}}
+                    </mat-option>
+                </mat-select>
+            </mat-form-field>
+           
+            <mat-form-field appearance="fill">
+                <mat-label>Pin code</mat-label>
+                <input required="true" minlength="6" maxlength="6" matInput [(ngModel)]="user.pinCode" name="pinCode" #pinCode="ngModel">
+                <mat-error *ngIf="!pinCode?.valid && (pinCode?.dirty || pinCode?.touched)">Must have 6 symbols</mat-error>
+            </mat-form-field>
+   
+        </div>
+
+        <div class="col-3">
+
+            
+             <mat-form-field appearance="fill">
+                <mat-label>Address</mat-label>
+                <input required="true" minlength="5" matInput [(ngModel)]="user.address" name="address" #address="ngModel">
+                <mat-error *ngIf="!address?.valid && (address?.dirty || address?.touched)">Must be at least 5 symbols</mat-error>
+            </mat-form-field>
+
+       
+            <mat-form-field appearance="fill">
+                <mat-label>Phone</mat-label>
+                <input required="true" minlength="6" matInput [(ngModel)]="user.phoneNumber" name="phoneNumber" #phone="ngModel">
+                <mat-error *ngIf="!phone?.valid && (phone?.dirty || phone?.touched)">Must be at least 6 symbols</mat-error>
+            </mat-form-field>
+
+       </div>
+
+  
+    </form>
+
+    
+
+</div>
+

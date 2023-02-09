@@ -1,0 +1,26 @@
+.container div {
+    float: left;
+    margin-bottom: 15px;
+  }
+  
+.col-1{
+    width: 20%;  
+ }
+    
+.col-2{
+    width: 20%;
+}
+
+.col-3{
+    width: 20%;
+}
+  
+  
+  
+.button{
+    bottom: 20px;
+    height: 55px;
+    width: 150px;
+}
+  
+  

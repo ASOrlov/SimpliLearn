@@ -1,0 +1,100 @@
+<div class="container">
+
+    <br>
+
+    <h1>
+      Complaint management
+    </h1>
+    
+
+    <br>
+
+    <form #myForm="ngForm">
+        <div class="col-1">
+      
+
+
+            <mat-form-field appearance="fill">
+                <mat-label>Engineer</mat-label>
+                <mat-select placeholder="Select engineer" [disabled]="!(isAdministrator||isManager)" required="{{isManager}}" [(ngModel)]="selectedEngineerId" name="engineer"> 
+                    <mat-option *ngFor="let user of engineerList" [value]="user.id">
+                        {{user.login}}
+                    </mat-option>
+                </mat-select>
+            </mat-form-field>
+            
+            <mat-form-field appearance="fill">
+                <mat-label>Status</mat-label>
+                <mat-select placeholder="Select status" [disabled]="!(isAdministrator||isEngineer)" [(ngModel)]="selectedStatusId" name="status">
+                    <mat-option *ngFor="let status of statuses" [value]="status.id">
+                        {{status.name}}
+                    </mat-option>
+                </mat-select>
+            </mat-form-field>
+    
+            
+            <mat-form-field appearance="fill">
+                <mat-label>Manager</mat-label>
+                <mat-select placeholder="Select manager" [disabled]="!isAdministrator"  [(ngModel)]="selectedManagerId" name="manager">
+                    <mat-option *ngFor="let user of managerList" [value]="user.id">
+                        {{user.login}}
+                    </mat-option>
+                </mat-select>
+            </mat-form-field>
+       
+            
+            <mat-form-field appearance="fill">
+                <mat-label>Customer</mat-label>
+                <mat-select placeholder="Select customer" [disabled]="!isAdministrator" [(ngModel)]="selectedCustomerId" name="customer">
+                    <mat-option *ngFor="let user of customerList" [value]="user.id">
+                        {{user.login}}
+                    </mat-option>
+                </mat-select>
+            </mat-form-field>
+    
+             <mat-form-field appearance="fill">
+                <mat-label>Type of problem</mat-label>
+                <mat-select placeholder="Select type of problem" [disabled]="!isAdministrator"  [(ngModel)]="selectedTypeOfProblemId" name="typeOfProblem">
+                    <mat-option *ngFor="let typeOfProblem of typesOfProblem" [value]="typeOfProblem.id">
+                        {{typeOfProblem.fullname}}
+                    </mat-option>
+                </mat-select>
+            </mat-form-field>
+    
+        </div>
+        
+       
+    
+        <div class="col-2">
+    
+       
+            <mat-form-field appearance="fill" class="text-box1">
+                <mat-label>Description</mat-label>
+                <textarea [disabled]="!isAdministrator" minlength="15" matInput [(ngModel)]="complaint.description" name="description" #descr="ngModel"></textarea>
+                <mat-error *ngIf="!descr?.valid && (descr?.dirty || descr?.touched)">Description must be at least 15 symbols</mat-error>
+            </mat-form-field>
+    
+            <br>
+    
+            <mat-form-field appearance="fill" class="text-box2">
+                <mat-label>Feedback</mat-label>
+                <textarea [disabled]="!(isAdministrator||isCustomer)" matInput [(ngModel)]="complaint.feedback" name="feedback"></textarea>
+            </mat-form-field>
+    
+            <br>
+            <br>
+    
+    
+            <button (click)="onSaveChanges()"  [disabled]="!myForm.dirty" mat-raised-button color="primary" class="button">{{isManager? "Save changes. Set status to Assigned":"Save changes"}}</button>
+            
+           
+        
+    
+    
+        </div>
+
+    </form>
+    
+
+</div>
+

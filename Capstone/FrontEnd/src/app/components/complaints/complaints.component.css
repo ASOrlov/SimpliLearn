@@ -1,0 +1,49 @@
+.container div {
+    float: left;
+    margin-bottom: 15px;
+  }
+
+
+  .button-togle{
+    width: 150px;
+  }
+
+  .button-raise{
+    left: 2px;
+    width: 150px;
+    height: 55px;
+  }
+
+ 
+  .button-group{
+    top: 22px;
+  }
+  
+  .col-1{
+    width: 15%; 
+  }
+  .col-2 {
+    width: 85%;
+  }
+  
+  table {
+    width: 100%;
+  }
+  
+  .fr{
+    width: 170px;
+    float: right;
+  }
+  
+  tr.example-element-row:not(.example-expanded-row):hover {
+    background: whitesmoke;
+  }
+  
+  tr.example-element-row:not(.example-expanded-row):active {
+    background: #efefef;
+  }
+  
+  .example-element-row td {
+    border-bottom-width: 0;
+  }
+  

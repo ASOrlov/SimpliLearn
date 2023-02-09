@@ -1,0 +1,49 @@
+<div class="container">
+
+    <br>
+
+    <h1>
+      New complaint
+    </h1>
+    
+
+    <br>
+
+
+    <form #myForm="ngForm">
+
+        <mat-form-field appearance="fill" class="select">
+            <mat-label>Type of problem</mat-label>
+            <mat-select  required="true" placeholder="Select type of problem" #typeOfProblem="ngModel" [(ngModel)]="selectedTypeOfProblem" name="typeOfProblem">
+                <mat-option *ngFor="let typeOfProblem of typesOfProblem" [value]="typeOfProblem">
+                    {{typeOfProblem.fullname}}
+                </mat-option>
+            </mat-select>
+        </mat-form-field>
+
+        <br>
+
+        <mat-form-field appearance="fill" class="text-box1">
+            
+            <mat-label>Description</mat-label>
+            <textarea  required="true" minlength="15" matInput [(ngModel)]="description" #descr="ngModel" name="description" ></textarea>
+            <mat-error *ngIf="!descr?.valid && (descr?.dirty || descr?.touched)">Description must be at least 15 symbols</mat-error>
+
+        </mat-form-field>
+        
+
+        <br>
+        <br>
+
+        <button (click)="onClickRise()" [disabled]="!(myForm.valid)" mat-raised-button color="primary" class="button">Raise</button>
+
+
+
+    </form>
+
+     
+
+   
+
+</div>
+

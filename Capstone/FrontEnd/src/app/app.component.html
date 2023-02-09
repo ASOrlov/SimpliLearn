@@ -1,0 +1,18 @@
+<mat-toolbar color="primary">
+    <mat-toolbar-row>
+      
+      <span *ngIf="!user">Complaints management application</span>
+
+      <span class="example-fill-remaining-space"></span>
+
+      <span class="example-fill-remaining-space"></span>
+      <span class="align-center"></span>
+      <span class="example-spacer"></span>
+  
+      <button (click)="goComlaints()" *ngIf="user" mat-button>Complaints</button>
+      <button (click)="goUsers()" *ngIf="isAdmin" mat-button>Users</button>
+      <button (click)="logout()" *ngIf="user" mat-button>Logout {{user.name}}</button>
+    </mat-toolbar-row>
+  </mat-toolbar>
+  
+<router-outlet></router-outlet>

@@ -1,0 +1,35 @@
+.container div {
+    float: left;
+    margin-bottom: 15px;
+  }
+
+
+  
+  .button-raise{
+    width: 150px;
+    height: 55px;
+
+  }
+
+ 
+  .fr{
+    float: right;
+  }
+
+  table {
+    width: 100%;
+  }
+  
+  
+  tr.example-element-row:not(.example-expanded-row):hover {
+    background: whitesmoke;
+  }
+  
+  tr.example-element-row:not(.example-expanded-row):active {
+    background: #efefef;
+  }
+  
+  .example-element-row td {
+    border-bottom-width: 0;
+  }
+  
